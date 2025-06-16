@@ -1,0 +1,36 @@
+{
+  "name": "client",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@fortawesome/fontawesome-free": "^6.7.1",
+    "@heroicons/react": "^1.0.6",
+    "@mui/icons-material": "^6.1.2",
+    "@mui/material": "^6.1.2",
+    "@stripe/react-stripe-js": "^1.16.5",
+    "@stripe/stripe-js": "^1.54.2",
+    "axios": "^1.7.7",
+    "clsx": "^1.1.1",
+    "dotenv": "^16.4.5",
+    "framer-motion": "^11.11.17",
+    "lucide-react": "^0.460.0",
+    "react": "^18.3.1",
+    "react-burger-menu": "^3.0.9",
+    "react-dom": "^18.3.1",
+    "react-feather": "^2.0.9",
+    "react-router-dom": "^6.2.1",
+    "stripe": "^16.11.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.1.4",
+    "vite": "^2.9.18",
+    "vite-plugin-windicss": "^1.6.3",
+    "windicss": "^3.4.3"
+  }
+}
